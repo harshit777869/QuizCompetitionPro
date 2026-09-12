@@ -1,0 +1,16 @@
+node_modules/
+server.log
+server-error.log
+*.log
+quiz.db
+database/quiz.db
+.env
+.DS_Store
+Thumbs.db
+
+node_modules/
+database/quiz.db
+*.log
+
+database/quiz.db-shm
+database/quiz.db-wal

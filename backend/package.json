@@ -1,0 +1,5 @@
+{
+  "name":"quiz-competition-pro-backend",
+  "private":true,
+  "dependencies":{"express":"^4.21.2","express-session":"^1.18.1","better-sqlite3":"^11.10.0"}
+}
